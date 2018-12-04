@@ -9,13 +9,14 @@ img{
 }
 
 .marjvena1{
-	margin-left: 1300px;
+	margin-left: 1000px;
 }
 .marjvena2{
 	margin-left: 25px;
 }
 .marjvena3{
 	margin-left: 25px;
+	color: #10C9C3;
 }
 nav a{
 	font-size: 17px;
@@ -35,7 +36,7 @@ section div{
 	 margin-bottom: 10px;
 }
 .sa{
-	color'
+	font-family:'nunitoSans-bold';
 }
 
 #borderDemo {
@@ -49,3 +50,28 @@ color: #ffffff;
 line-height:4;
 
 }
+body section{
+	background-color: #F5F5F5;
+}
+.first{
+	margin-left: 430px;
+}
+.second{
+	margin-left: 40px;
+}
+.mesame{
+	margin-left: 600px;
+}
+section div{
+	width: 300px;
+}
+header{
+	padding-bottom: 30px
+}
+.text1{margin-left: 598px; 
+	margin-top: 10px;
+
+}
+footer{
+background-color: #141414;
+ }
